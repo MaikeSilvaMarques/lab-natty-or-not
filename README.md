@@ -20,32 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Explorando Limites da IA ​​Generativa
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto que demonstra o potencial transformador das Inteligências Artificiais Generativas, criando conteúdo original e multimídia que desafia os limites entre a criatividade humana e tecnológica.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ChatGPT para geração de texto
+DALL-E 2 para geração de imagens
+Midjourney para criar arte generativa
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Multimídia totalmente gerado por IA
+texto, imagem e design, gerado por IA
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo "natty" utilizando IA representa um equilíbrio delicado entre tecnologia e criatividade. O desafio é como essa tecnologia pode ser usada de forma que não prejudique pessoas e empresas, na geração de conteudo Fake,
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+!(Proofpoint](https://www.proofpoint.com/br/blog/security-awareness-training/generative-ai-transforming-social-engineering)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
